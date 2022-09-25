@@ -1,0 +1,8 @@
+streamlit 1.13.0
+numpy
+tensorflow
+keras
+opencv-python
+pandas
+numpy
+streamlit 1.13.0
