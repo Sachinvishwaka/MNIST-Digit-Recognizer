@@ -4,5 +4,5 @@ keras
 opencv-python==
 streamlit_drawable_canvas
 PIL
-tkinter
+TK
 Image
