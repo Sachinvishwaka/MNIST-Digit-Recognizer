@@ -8,3 +8,4 @@ numpy
 streamlit_drawable_canvas
 PIL
 tkinter
+Image
