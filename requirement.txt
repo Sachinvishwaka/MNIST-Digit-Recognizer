@@ -1,7 +1,7 @@
-streamlit==1.13.0
-tensorflow==
+streamlit
+tensorflow
 keras
-opencv-python==
+opencv-python
 streamlit_drawable_canvas
 PIL
 TK
