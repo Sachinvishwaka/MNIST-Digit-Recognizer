@@ -5,4 +5,4 @@ opencv-python==4.6.0
 streamlit_drawable_canvas==1.13.0
 PIL==9.2.0
 tkinter==8.6
-
+Image==8.6
