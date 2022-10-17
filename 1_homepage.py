@@ -1,4 +1,4 @@
-from tkinter import Image
+
 import streamlit as st
 
 st.set_page_config(
