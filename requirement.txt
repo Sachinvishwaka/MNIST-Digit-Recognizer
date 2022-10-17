@@ -7,3 +7,4 @@ PIL==9.2.0
 tkinter==0.1.0
 Image==0.1.0
 numpy==1.23.2
+pip==22.3
