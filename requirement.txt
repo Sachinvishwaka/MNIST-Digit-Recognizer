@@ -4,5 +4,5 @@ keras
 opencv-python==4.6.0
 streamlit_drawable_canvas==1.13.0
 PIL
-TK
+tk
 Image
